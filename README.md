@@ -1,4 +1,3 @@
-# Streaming_chatbot
 # Streaming Chatbot
 
 This project is a streaming chatbot built using Streamlit and Langchain's Groq integration. It leverages the Llama 3.1-70b Versatile model to generate AI responses based on the conversation history. 
@@ -10,9 +9,5 @@ This project is a streaming chatbot built using Streamlit and Langchain's Groq i
 - Streaming responses
 - Easy to use with a simple UI
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/streaming-chatbot.git
-   cd streaming-chatbot
+## Example
+<img width="956" alt="streaming_bot_project" src="https://github.com/user-attachments/assets/ef2476a5-03a3-4632-8fe5-318ba48b966f">
